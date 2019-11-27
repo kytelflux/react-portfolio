@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kytelflux/kytelflux.github.io",
+  "homepage": "https://kytelflux.github.io/react-portfolio/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
